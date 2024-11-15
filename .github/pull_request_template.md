@@ -1,14 +1,17 @@
-# Pull Request Template for ArtOa
+# Pull Request Template for DOER
 
 ## Description
 
 Please provide a summary of the changes in this pull request:
 
 -   What does this PR do?
+    -   adds new feature
 -   Why are these changes necessary?
+    -   to add a new feature
 -   Any relevant links or references?
+    -   https://teamparking.atlassian.net/browse/PAR-9   
 
-Fixes: [issue number/link]
+Fixes: [[PAR-9](https://teamparking.atlassian.net/browse/PAR-9)]
 
 ---
 
@@ -17,7 +20,7 @@ Fixes: [issue number/link]
 Please select the type of change this PR introduces (tick the appropriate box):
 
 -   [ ] 🐛 Bug fix (non-breaking change that fixes an issue)
--   [ ] ✨ New feature (non-breaking change that adds functionality)
+-   [x] ✨ New feature (non-breaking change that adds functionality)
 -   [ ] 🚨 Breaking change (fix or feature that would cause existing functionality
         to not work as expected)
 -   [ ] 🔄 Refactor (code or file structure changes without affecting functionality)
@@ -30,15 +33,15 @@ Please select the type of change this PR introduces (tick the appropriate box):
 
 Please ensure the following tasks have been completed before requesting a review:
 
--   [ ] My code follows the style guidelines of this project
--   [ ] I have run tests to ensure my changes work as expected
+-   [x] My code follows the style guidelines of this project
+-   [x] I have run tests to ensure my changes work as expected
 -   [ ] I have added/updated necessary tests or documentation (if applicable)
--   [ ] I have self-reviewed my code and refactored any areas that need improvement
--   [ ] There are no console errors or warnings related to my changes
--   [ ] The PR includes a clear, detailed title and description
--   [ ] Any relevant issues have been linked or mentioned in this PR
+-   [x] I have self-reviewed my code and refactored any areas that need improvement
+-   [x] There are no console errors or warnings related to my changes
+-   [x] The PR includes a clear, detailed title and description
+-   [x] Any relevant issues have been linked or mentioned in this PR
 -   [ ] I have reviewed the acceptance criteria and met all requirements
--   [ ] I have considered edge cases and errors that may occur due to my changes
+-   [x] I have considered edge cases and errors that may occur due to my changes
 
 ---
 
@@ -48,9 +51,8 @@ Please describe how your changes can be tested:
 
 1. **Test Setup:** (Any steps for environment setup)
 2. **Test Steps:**
-    - Step 1: ...
-    - Step 2: ...
-    - ...
+    - Step 1: run app
+    - Step 2: landing page should be visible
 
 ---
 
