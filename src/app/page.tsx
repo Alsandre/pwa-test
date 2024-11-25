@@ -1,5 +1,7 @@
 "use client";
 
+import InstallPrompt from "./components/InstallPrompt";
+
 export default function Home() {
     return (
         <div className="w-screen h-screen px-3 pt-10 pb-[100px] flex flex-col justify-between bg-gradient-to-br from-black/0 via-black/20 to-black/40">
@@ -25,6 +27,7 @@ export default function Home() {
                     გაგრძელება
                 </button>
             </div>
+            <InstallPrompt />
         </div>
     );
 }
