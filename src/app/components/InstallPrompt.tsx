@@ -30,7 +30,16 @@ const InstallPrompt: React.FC = () => {
     };
 
     return (
-        <div>{showInstallButton && <button onClick={handleInstallClick}>Install App</button>}</div>
+        <div>
+            {showInstallButton && (
+                <button
+                    onClick={handleInstallClick}
+                    className="m-auto bg-[#4BA46C] p-4 rounded-md text-[28px] text-white flex justify-center items-center"
+                >
+                    Install App
+                </button>
+            )}
+        </div>
     );
 };
 
