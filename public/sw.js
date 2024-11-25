@@ -33,47 +33,55 @@ define(["./workbox-4754cb34"], function (e) {
             [
                 {
                     url: "/_next/app-build-manifest.json",
-                    revision: "3c2c6cb8205e38b4ec77fc1abfb251f3",
+                    revision: "ef7c4fb485c6f3af8a55ed745bbf1b2c",
                 },
                 {
-                    url: "/_next/static/chunks/117-dfc68f5f79c780fe.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    url: "/_next/static/USd8jRhqDIrsInHX64SHn/_buildManifest.js",
+                    revision: "c155cce658e53418dec34664328b51ac",
                 },
                 {
-                    url: "/_next/static/chunks/app/_not-found/page-dcb83ba3e4d0aafd.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    url: "/_next/static/USd8jRhqDIrsInHX64SHn/_ssgManifest.js",
+                    revision: "b6652df95db52feb4daf4eca35380933",
+                },
+                {
+                    url: "/_next/static/chunks/117-f13dc4f3b1ab72a0.js",
+                    revision: "USd8jRhqDIrsInHX64SHn",
+                },
+                {
+                    url: "/_next/static/chunks/app/_not-found/page-4b9eb8aab41bf6df.js",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/app/layout-39e719f96898eb87.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
-                    url: "/_next/static/chunks/app/page-8142ba5a1e4ab174.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    url: "/_next/static/chunks/app/page-fe8e09713698776c.js",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
-                    url: "/_next/static/chunks/fd9d1056-aa94ea5c2eabf904.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    url: "/_next/static/chunks/fd9d1056-49ca28257eb7a92c.js",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/framework-f66176bb897dc684.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/main-app-e7252d6284f1375c.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/main-e079d33f27af3a10.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/pages/_app-72b849fbd24ac258.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/pages/_error-7ba65e1336b92748.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 {
                     url: "/_next/static/chunks/polyfills-42372ed130431b0a.js",
@@ -81,20 +89,12 @@ define(["./workbox-4754cb34"], function (e) {
                 },
                 {
                     url: "/_next/static/chunks/webpack-fb23b048da25670c.js",
-                    revision: "qIVwMJL5LcRm_B4uXr0xL",
+                    revision: "USd8jRhqDIrsInHX64SHn",
                 },
                 { url: "/_next/static/css/371086c97ce8e88c.css", revision: "371086c97ce8e88c" },
                 {
                     url: "/_next/static/media/4473ecc91f70f139-s.p.woff",
                     revision: "78e6fc13ea317b55ab0bd6dc4849c110",
-                },
-                {
-                    url: "/_next/static/qIVwMJL5LcRm_B4uXr0xL/_buildManifest.js",
-                    revision: "c155cce658e53418dec34664328b51ac",
-                },
-                {
-                    url: "/_next/static/qIVwMJL5LcRm_B4uXr0xL/_ssgManifest.js",
-                    revision: "b6652df95db52feb4daf4eca35380933",
                 },
                 { url: "/apple-touch-icon.png", revision: "5b3bb5b1acd5faadbc03b424a0dedf8f" },
                 { url: "/desktop-screenshot.png", revision: "e5b4b665faaac39a4a81e3d001d75de1" },
@@ -104,7 +104,7 @@ define(["./workbox-4754cb34"], function (e) {
                 { url: "/icon-144x144.png", revision: "ca2ec8414c89f61e0adaaa2fcc52b0c7" },
                 { url: "/icon-192x192.png", revision: "7f44a34f2e6550a296e6b7a414184f76" },
                 { url: "/icon-512x512.png", revision: "9ebda3f785ac70616d77d83b1cc0ab30" },
-                { url: "/manifest.json", revision: "66f9fad3c9bce517453525a704246558" },
+                { url: "/manifest.json", revision: "4ac509fac211ecc97ad229281bb4c47b" },
                 { url: "/mobile-screenshot.png", revision: "05e845e6cb884caaca720c0ae2dacb71" },
             ],
             { ignoreURLParametersMatching: [] },
