@@ -11,7 +11,7 @@ export default function Home() {
                 className="absolute z-[-5] h-full w-auto object-cover object-[55%] top-0 left-0"
             />
             <span className="flex justify-center items-center w-[126px] h-[81px] bg-[#B2B0B0] text-[20px] font-[350]">
-                ლოგო
+                ლოგო hbdfhdfh ty5 5yr5yytt
             </span>
             <div className="flex items-center flex-col gap-12">
                 <div className="w-full flex flex-col gap-12">
