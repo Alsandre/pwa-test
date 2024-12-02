@@ -36,7 +36,7 @@ const InstallPrompt: React.FC = () => {
                     onClick={handleInstallClick}
                     className="m-auto bg-[#4BA46C] p-4 rounded-md text-[28px] text-white flex justify-center items-center"
                 >
-                    Install App
+                    Install App one and only lamia mirzaeva
                 </button>
             )}
         </div>
